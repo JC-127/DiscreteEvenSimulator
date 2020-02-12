@@ -1,0 +1,42 @@
+Stat File
+
+Sizes of Queues
+Maximum size of Event: 46 
+Average size of Event: 2 
+
+Maximum size of CPU: 48 
+Average size of CPU: 1 
+
+Maximum size of Disk 1: 9 
+Average size of Disk 1: 0 
+
+Maximum size of Disk 2: 74 
+Average size of Disk 2: 2 
+
+UTILIZATION
+
+TOTAL SIMULATION RUN TIME: 6500
+
+CPU Utilization: 0.706267.2% 
+Disk 1 Utilization: 0.643067.2% 
+Disk 2 Utilization: 0.911867.2% 
+
+Total CPU jobs processed: 209 
+Total Disk 1 jobs processed: 72 
+Total Disk 2 jobs processed: 8 
+
+THROUGHPUT 
+
+CPU Throughput: 0.039 
+Disk 1 Throughput: 0.014928 
+Disk 2 Throughput: 0.001170 
+
+RESPONSE TIME 
+
+Longest CPU job: 50 
+Longest Disk 1 job: 149 
+Longest Disk 2 job: 1359 
+
+CPU average job: 25.344498.4 
+DISK1 average job: 66.986115.4 
+DISK2 average job: 854.8750004.4 
